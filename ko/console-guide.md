@@ -8,9 +8,12 @@ Security Check 서비스를 신청하기 위해 **TOAST Cloud Console**에 로�
 1. 상품 페이지 내 **[검수 신청]** 버튼을 클릭 후 나타나는 팝업창에 서비스 정보를 입력합니다.
 2. 검수할 서비스의 종류를 선택하고 보안질의서를 작성합니다.
   - Web Application
-    웹 서비스 보안질의서를 다운받아 작성하고 기획/개발 문서와 함께 파일을 압축한 뒤 첨부파일에 파일을 업로드하여 검수 요청을 등록합니다. [[웹서비스 보안질의서 다운받기]](http://static.toastoven.net/toastcloud/sdk_download/security/web_security_check.xls)
+    - 웹 서비스 보안질의서를 다운받아 작성하고 기획/개발 문서와 함께 파일을 압축한 뒤 첨부파일에 파일을 업로드하여 검수 요청을 등록합니다.
+    - [[웹서비스 보안질의서 다운받기]](http://static.toastoven.net/toastcloud/sdk_download/security/web_security_check.xls)
   - Mobile App
-    모바일 앱 또는 게임 서비스의 보안질의서를 다운받아 작성하고 기획/개발 문서와 함께 파일을 압축한 뒤 첨부파일에 파일을 업로드하여 검수 요청을 등록합니다. [[모바일 앱 서비스 보안질의서 다운받기]](http://static.toastoven.net/prod_securitycheck/mobile_security_check.xls)  [[게임 서비스 보안질의서 다운받기]](http://static.toastoven.net/toastcloud/sdk_download/security/game_security_check.xls)
+    - 모바일 앱 또는 게임 서비스의 보안질의서를 다운받아 작성하고 기획/개발 문서와 함께 파일을 압축한 뒤 첨부파일에 파일을 업로드하여 검수 요청을 등록합니다.
+    - [[모바일 앱 서비스 보안질의서 다운받기]](http://static.toastoven.net/prod_securitycheck/mobile_security_check.xls)
+    - [[게임 서비스 보안질의서 다운받기]](http://static.toastoven.net/toastcloud/sdk_download/security/game_security_check.xls)
 3. 팝업창 내 **[확인]** 버튼을 클릭합니다.
 
 ## 결과 확인
