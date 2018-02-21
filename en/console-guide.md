@@ -1,4 +1,4 @@
-## Security > Security Check > 콘솔 사용 가이드
+## Security > Security Check > Console Guide
 
 Security Check 서비스는 신규 또는 운영 중인 애플리케이션에 대한 보안 취약점 검수를 수행하고, 발견된 취약점에 대한 대응 방법을 제공하는 서비스입니다. 아래에서 Security Check 콘솔의 사용 방법을 소개합니다.
 

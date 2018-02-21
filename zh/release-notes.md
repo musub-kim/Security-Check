@@ -1,4 +1,4 @@
-## Security > Security Check > 릴리스 노트
+## Security > Security Check > Release Notes
 
 ## 2016.08.18
 
