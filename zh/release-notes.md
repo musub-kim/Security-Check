@@ -1,8 +1,13 @@
-## Security > Security Check > Release Notes
+## Security > Security Check > 릴리스 노트
 
-## 2016.08.18
+### 2018.11.27
 
 #### 기능 개선/변경
+* [API] 데이터 관리 정책 반영: 상품 비활성화 시 관련 데이터 삭제
 
+
+### 2016.08.18
+
+#### 기능 개선/변경
 * [Console] 검수 신청 시 첨부파일 확장자 제한
 * 허용 확장자 : .zip, .7z, .apk, .rar, .tar
