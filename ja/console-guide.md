@@ -1,4 +1,4 @@
-﻿## Security > Security Check > コンソール使用ガイド
+## Security > Security Check > コンソール使用ガイド
 
 ここではSecurity Checkコンソールの使用方法を説明します。
 
