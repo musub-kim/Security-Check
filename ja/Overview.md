@@ -1,4 +1,4 @@
-﻿## Security > Security Check > 概要
+## Security > Security Check > 概要
 
 Security Checkは、数年間蓄積された実務経験と専門技術で、新規または運営中のアプリケーションのセキュリティー脆弱性を検収し、発見した脆弱性への対応方法を提供します。
 
