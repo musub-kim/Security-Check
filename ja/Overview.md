@@ -34,7 +34,7 @@ Security Checkのサービス構造は次の図のとおりです。
 2. 該当アプリケーションに対して検収者が割り当てられ、手動、自動検収を行います。
 3. 検収が完了すると、登録された結果をユーザーが確認できます。
 
-![securitycheck_00_201812.png](https://static.toastoven.net/prod_securitycheck/securitycheck_00_201812.png)
+![securitycheck_00_201903_en.png](https://static.toastoven.net/prod_securitycheck/securitycheck_00_201903_en.png)
 
 ### 参考
 *セキュリティー検収結果レポートは、1ヶ月間保管します。
