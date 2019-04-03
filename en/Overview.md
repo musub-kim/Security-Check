@@ -1,40 +1,40 @@
-## Security > Security Check > 개요
+## Security > Security Check > Overview
 
-Security Check는 수년간 축적된 실무 경험과 전문 기술을 바탕으로 신규 또는 운영 중인 애플리케이션의 보안 취약점을 검수하고 발견된 취약점에 대한 대응 방법을 제공합니다.
+On the back of years' of work experience and professional skills, Security Check inspects and provides responsive means to security vulnerabilities of new or operating applications. 
 
-## Security Check 특장점
+## Benefits  
 
-- 대상 서비스 대한 사전 검수 및 대응 조치를 통해 서비스의 안정성을 확보하고, 잠재적인 취약점을 제거할 수 있습니다.
-- 보안 취약점을 사전에 조치해 유지 보수 비용을 절감할 수 있습니다.
-- 고객에게 안정적 서비스를 제공하여 기업 이미지를 향상시킬 수 있습니다.
-
-
-## Security Check 주요 기능
-#### 수동 검수와 자동 검수 제공
-- 체크리스트 기반의 수동 검수와 분석 툴을 활용한 자동 검수로 고품질의 서비스를 제공합니다.
-#### 서비스 특성을 고려한 검수 항목
-- 서비스 유형(WEB, Mobile)별 특성을 고려한 검수 서비스를 제공합니다.
-#### 취약점 대응 방법 제공
-- 발견된 보안 취약점에 대한 근본적인 대응 방법과 샘플 코드를 제공합니다.
+- Secure stability in service with preemptive inspection and responsive measures, and remove potential weaknesses. 
+- Take preemptive measures for security vulnerabilities so as to save maintenance costs. 
+- Enhance corporate image by supplying customers with stable services.  
 
 
-## Security Check 서비스 대상
+## Main Features  
+#### Manual and Automatic Checks 
+- Provides quality service by using checklist-based manual inspection and analysis tool-based automatic inspection. 
+#### Inspection Items Considering Service Features 
+- Inspects service in consideration of features of each service type (e.g. web or mobile). 
+#### Response for Vulnerabilities 
+- Provides fundamental responses and sample codes for security weaknesses that are detected. 
 
-Security Check 서비스는 다음과 같은 경우 효과적입니다.
 
-* 신규 애플리케이션에 대해 오픈 전 보안 검수가 필요한 경우
-* 운영 중인 애플리케이션에 대한 보안 검수가 필요한 경우
-* 해킹 사고로 인해 보안 대책 마련이 필요한 경우
+## Targets  
 
-## Security Check 서비스 구조
+Security Check is effective for the following cases: 
 
-Security Check의 서비스 구조는 다음 그림과 같습니다.
+* To inspect new applications before release  
+* To inspect applications that are under operations  
+* To come up with security measures due to hacker's attack
 
-1. 사용자가 서비스 대상의 정보를 입력하여 신청을 완료합니다.
-2. 해당 애플리케이션에 대해 검수자가 할당되어 수동, 자동 검수를 수행합니다.
-3. 검수가 완료되면 등록된 결과를 사용자가 확인할 수 있습니다.
+## Service Structure 
+
+Security Check is structured as follows: 
+
+1. User fills out information for service to inspect;
+2. Inspector is assigned for the application to execute manual or automatic inspection; and, 
+3. When inspection is completed, user can check results that are registered. 
 
 ![securitycheck_00_201903_en.png](https://static.toastoven.net/prod_securitycheck/securitycheck_00_201903_en.png)
 
-### 참고
-* 보안 검수 결과 보고서는 1개월간 보관합니다.
+### For Reference 
+* Reports on security inspection shall be stored for a month. 
