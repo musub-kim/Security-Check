@@ -1,25 +1,25 @@
-## Security > Security Check > 콘솔 사용 가이드
+## Security > Security Check > コンソール使用ガイド
 
-여기에서는 Security Check 콘솔 사용 방법을 설명합니다.
+ここではSecurity Checkコンソールの使用方法を説明します。
 
-Security Check 서비스를 사용하려면 **TOAST Console**에 로그인하고, 서비스 목록에서 **Security > Security Check**를 클릭합니다.
+Security Checkサービスを使用するには、**TOAST Console**にログインし、サービスリストから**Security > Security Check**をクリックします。
 
-## 검수 신청
+## 検収申請
 
-서비스 보안 검수를 신청합니다.
+サービスセキュリティー検収を申請します。
 ![securitycheck_01_201812.png](https://static.toastoven.net/prod_securitycheck/securitycheck_01_201812.png)
 
-1. Security Check 콘솔에서 **검수 신청** 버튼을 클릭한 후 **검수 신청** 창에서 서비스 정보를 입력합니다.
-2. 검수할 서비스의 종류를 선택하고 보안질의서를 작성합니다.
+1. Security Checkコンソールで**検収申請**ボタンをクリックし、**検収申請**ウィンドウでサービス情報を入力します。
+2. 検収するサービスの種類を選択し、セキュリティー質疑書を作成します。
   - Web Application
-    - 웹 서비스 보안 질의서를 다운로드해 작성하고 기획, 개발 문서와 함께 파일을 압축한 뒤 첨부 파일에 파일을 업로드하여 검수 요청을 등록합니다.
-    - [[웹서비스 보안 질의서 다운받기]](http://static.toastoven.net/toastcloud/sdk_download/security/web_security_check.xls)
+    - Webサービスセキュリティー質疑書をダウンロードして作成し、企画、開発文書と一緒にファイルを圧縮した後、ファイルをアップロードして検収要請を登録します。
+    - [[Webサービスセキュリティー質疑書をダウンロード]](http://static.toastoven.net/toastcloud/sdk_download/security/web_security_check.xls)
   - Mobile App
-    - 모바일 앱 또는 게임 서비스의 보안 질의서를 다운로드해 작성하고 기획, 개발 문서와 함께 파일을 압축한 뒤 첨부 파일에 파일을 업로드하여 검수 요청을 등록합니다.
-    - [[모바일 앱 서비스 보안 질의서 다운받기]](http://static.toastoven.net/toastcloud/sdk_download/security/mobile_security_check.xls)
-    - [[게임 서비스 보안 질의서 다운받기]](http://static.toastoven.net/toastcloud/sdk_download/security/game_security_check.xls)
-3. **확인** 버튼을 클릭합니다.
+    - モバイルアプリまたはゲームサービスのセキュリティー質疑書をダウンロードして作成し、企画、開発文書と一緒にファイルを圧縮した後、ファイルをアップロードして検収要請を登録します。
+    - [[モバイルアプリサービスセキュリティー質疑書をダウンロード]](http://static.toastoven.net/toastcloud/sdk_download/security/mobile_security_check.xls)
+    - [[ゲームサービスセキュリティー質疑書をダウンロード]](http://static.toastoven.net/toastcloud/sdk_download/security/game_security_check.xls)
+3. **確認**ボタンをクリックします。
 
-## 결과 확인
+## 結果確認
 
-검수가 완료되면 **결과 확인** 버튼이 활성화되며, 버튼을 클릭하면 검수 결과에 대한 총평과 검수 보고서를 다운로드 할 수 있습니다.
+検収が完了したら、**結果確認**ボタンが有効になり、ボタンをクリックすると、検収結果に対する総評と検収レポートをダウンロードできます。

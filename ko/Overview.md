@@ -34,7 +34,7 @@ Security Check의 서비스 구조는 다음 그림과 같습니다.
 2. 해당 애플리케이션에 대해 검수자가 할당되어 수동, 자동 검수를 수행합니다.
 3. 검수가 완료되면 등록된 결과를 사용자가 확인할 수 있습니다.
 
-![securitycheck_00_201812.png](https://static.toastoven.net/prod_securitycheck/securitycheck_00_201812.png)
+![securitycheck_00_201903.png](https://static.toastoven.net/prod_securitycheck/securitycheck_00_201903.png)
 
 ### 참고
 * 보안 검수 결과 보고서는 1개월간 보관합니다.
