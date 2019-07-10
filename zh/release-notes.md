@@ -1,4 +1,12 @@
-## Security > Security Check > 릴리스 노트
+## Security > Security Check > Release Notes
+
+### May 14, 2019
+
+#### Updates
+* Changes in the mail delivery processing 
+* Translation enabled into multiple languages 
+* [API] Response to change of API structure due to upgrades in vaccine versions  
+
 
 ### 2019.02.26
 
