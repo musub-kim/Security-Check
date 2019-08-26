@@ -1,10 +1,17 @@
 ## Security > Security Check > Release Notes
 
+### August 27, 2019
+
+#### Feature Updates 
+* [Console] Same fonts applied for multiple languages 
+* [Console] Logins processed for redirection 
+
+
 ### May 14, 2019
 
 #### Updates
-* Changes in the mail delivery processing 
-* Translation enabled into multiple languages 
+* [API] Changes in the mail delivery processing 
+* [Console] Translation enabled into multiple languages 
 
 
 ### 2019.02.26
