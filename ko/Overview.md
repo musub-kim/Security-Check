@@ -1,4 +1,4 @@
-## Security > Security Check > 개요
+## Security > App Security Check > 개요
 
 Security Check는 수년간 축적된 실무 경험과 전문 기술을 바탕으로 신규 또는 운영 중인 애플리케이션의 보안 취약점을 검수하고 발견된 취약점에 대한 대응 방법을 제공합니다.
 
